@@ -293,6 +293,7 @@ Justin Villena
 - Sayan Maity
 - Natalie Heywood
 - [Nur Amyleena Arnie](https://github.com/amyleena95)
+- Ragini Pant
 - Mikhail Budko (https://github.com/mikhailbudko)
 - Emma Bailly
 - [Siawash Kasra ](https://github.com/siawashkasra)
